@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "title": "Wu",
+        "artist": "나플라",
+        "releaseYear": "2016",
+        "coverImage": "/assets/album-jacket/1.jpeg",
+        "youtube": {
+            "videoId": "TZquZFXS9Zk"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Hip Hop",
+        "artist": "오왼",
+        "releaseYear": "2016",
+        "coverImage": "/assets/album-jacket/2.jpeg",
+        "youtube": {
+            "videoId": "eAf0fVuyqA8"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Smoking Dreams",
+        "artist": "재지팩트",
+        "releaseYear": "2010",
+        "coverImage": "/assets/album-jacket/3.jpeg",
+        "youtube": {
+            "videoId": "ioMUH0zpqMM"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Hot Summer",
+        "artist": "비프리",
+        "releaseYear": "2014",
+        "coverImage": "/assets/album-jacket/4.jpeg",
+        "youtube": {
+            "videoId": "rbhRKwgbOSE"
+        }
+    },
+    {
+        "id": 5,
+        "title": "진흙 속에서 피는 꽃",
+        "artist": "더콰이엇",
+        "releaseYear": "2007",
+        "coverImage": "/assets/album-jacket/5.jpeg",
+        "youtube": {
+            "videoId": "Gf-P9UvVWqw"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Mr.Independent 2 (feat. Beenzino & The Quiett)",
+        "artist": "도끼",
+        "releaseYear": "2011",
+        "coverImage": "/assets/album-jacket/6.jpeg",
+        "youtube": {
+            "videoId": "d96HLZTP3cc"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Reasons",
+        "artist": "오왼",
+        "releaseYear": "2013",
+        "coverImage": "/assets/album-jacket/7.jpeg",
+        "youtube": {
+            "videoId": "P2lCwaBnAKw"
+        }
+    },
+    {
+        "id": 8,
+        "title": "Take The Q Train Remix",
+        "artist": "더콰이엇",
+        "releaseYear": "2014",
+        "coverImage": "/assets/album-jacket/8.jpeg",
+        "youtube": {
+            "videoId": "-lliBHEpcPc"
+        }
+    },
+    {
+        "id": 9,
+        "title": "Always Awake",
+        "artist": "빈지노",
+        "releaseYear": "2011",
+        "coverImage": "/assets/album-jacket/9.jpeg",
+        "youtube": {
+            "videoId": "Kl2BfhJi-yA"
+        }
+    },
+    {
+        "id": 10,
+        "title": "이제는 떳떳하다",
+        "artist": "테이크원",
+        "releaseYear": "2015",
+        "coverImage": "/assets/album-jacket/10.jpeg",
+        "youtube": {
+            "videoId": "pLDCMJHAa2w"
+        }
+    },
+    {
+        "id": 11,
+        "title": "가뭄",
+        "artist": "팔로알토",
+        "releaseYear": "2016",
+        "coverImage": "/assets/album-jacket/11.jpeg",
+        "youtube": {
+            "videoId": "g67T22Z7ji8"
+        }
+    },
+    {
+        "id": 12,
+        "title": "M.O.N.E.Y. (Money Over Nature Eating Youth)",
+        "artist": "오왼",
+        "releaseYear": "2017",
+        "coverImage": "/assets/album-jacket/12.jpeg",
+        "youtube": {
+            "videoId": "9HqL3YCgv7g"
+        }
+    },
+    {
+        "id": 13,
+        "title": "My City",
+        "artist": "하이라이트",
+        "releaseYear": "2013",
+        "coverImage": "/assets/album-jacket/13.jpeg",
+        "youtube": {
+            "videoId": "e7cuI4u8LDU"
+        }
+    },
+    {
+        "id": 14,
+        "title": "Up All Night (Feat. Mayson The Soul)",
+        "artist": "빈지노",
+        "releaseYear": "2014",
+        "coverImage": "/assets/album-jacket/14.jpeg",
+        "youtube": {
+            "videoId": "DZ2oK_KDMBY"
+        }
+    },
+    {
+        "id": 15,
+        "title": "Misfit97",
+        "artist": "고스트클럽",
+        "releaseYear": "2017",
+        "coverImage": "/assets/album-jacket/15.jpeg",
+        "youtube": {
+            "videoId": "bViPk0Ycmsg"
+        }
+    },
+    {
+        "id": 16,
+        "title": "얼마냐",
+        "artist": "던말릭",
+        "releaseYear": "2014",
+        "coverImage": "/assets/album-jacket/16.jpeg",
+        "youtube": {
+            "videoId": "4gunPJdQV7I"
+        }
+    },
+    {
+        "id": 17,
+        "title": "1219 Epiphany",
+        "artist": "버벌진트",
+        "releaseYear": "2017",
+        "coverImage": "/assets/album-jacket/17.jpeg",
+        "youtube": {
+            "videoId": "KgAgiQ52Qis"
+        }
+    },
+    {
+        "id": 18,
+        "title": "On My Way (Feat. Zion.T)",
+        "artist": "도끼",
+        "releaseYear": "2015",
+        "coverImage": "/assets/album-jacket/18.jpeg",
+        "youtube": {
+            "videoId": "QzLFcfCEm-I"
+        }
+    },
+    {
+        "id": 19,
+        "title": "Seoul (feat. Owen Ovadoz)",
+        "artist": "나플라",
+        "releaseYear": "2015",
+        "coverImage": "/assets/album-jacket/19.jpeg",
+        "youtube": {
+            "videoId": "ED-ifecUf_E"
+        }
+    },
+    {
+        "id": 20,
+        "title": "Diamonds (lose yourself)",
+        "artist": "오왼",
+        "releaseYear": "2017",
+        "coverImage": "/assets/album-jacket/20.jpeg",
+        "youtube": {
+            "videoId": "cWINhE5EEkY"
+        }
+    },
+    {
+        "id": 21,
+        "title": "독립음악",
+        "artist": "최엘비",
+        "releaseYear": "2016",
+        "coverImage": "/assets/album-jacket/21.jpeg",
+        "youtube": {
+            "videoId": "SLWpFHwq820"
+        }
+    },
+    {
+        "id": 22,
+        "title": "양화",
+        "artist": "딥플로우",
+        "releaseYear": "2000",
+        "coverImage": "/assets/album-jacket/22.jpeg",
+        "youtube": {
+            "videoId": "ULownpnLKAc"
+        }
+    }
+]
