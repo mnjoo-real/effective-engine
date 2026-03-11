@@ -14,6 +14,7 @@ const BACKGROUND_VIDEO_BY_OPTION = {
   standard1: 'assets/bg/130606 JUSTJAM vol.9 __ Beenzino - Aqua man.mp4',
   standard2: 'assets/bg/2023.05.28 Smoking Dreams  _ BEENZINO (서울재즈페스티벌 ).mp4',
   standard3: 'assets/bg/140621 일리네어 레코즈 콘서트__ ILLIONAIRE RECORDS - 가.mp4',
+  standard4: 'assets/bg/[SMTM127회 풀버전] Team J-Tong X Hukky Shibaseki @프로듀서 공연.mp4',
 };
 
 const syncSubtitleYoutubeLink = () => {
